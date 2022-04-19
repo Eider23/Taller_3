@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="agregar">Agregar</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="main_image">mainImage</string>
+    <string name="main_text">Welcome to Mad Libs! Iwill ask you to fill in words to complete a story. You won\'t be able to see the whole story until you are done filling in all the missing words. That\'s part of the fun. Click below to get stated</string>
+    <string name="volver_a_inacio">Volver a Inacio</string>
+</resources>
